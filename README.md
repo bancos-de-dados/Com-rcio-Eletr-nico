@@ -228,9 +228,10 @@ JOIN Produtos pr ON i.ProdutoID = pr.ID
 WHERE p.Status_Do_Pedido = 'Processado' AND p.ClienteID = 4 ;
 
 ```
+![view_clientes](https://github.com/bancos-de-dados/Com-rcio-Eletr-nico/assets/127689567/f82c4c99-158a-438b-9d64-c1b4373abcd3)
 
 
-Implemente uma view que forneça uma lista de todos os produtos disponíveis, excluindo aqueles que estão esgotados.
+Implemente uma view que forneça uma lista de todos os produtos disponíveis.
 
 ```SQL
 
@@ -240,6 +241,7 @@ FROM Produtos
 WHERE Quantidade_Estoque > 0;
 
 ```
+![view_clientes](https://github.com/bancos-de-dados/Com-rcio-Eletr-nico/assets/127689567/68b78324-2937-4b9c-914c-be02587ad61c)
 
 
 ![logo-maker-featuring-aliens-and-robots-2367-el1](https://github.com/bancos-de-dados/Com-rcio-Eletr-nico/assets/127689567/96d142cd-2b5c-409d-9ba1-ce5a2a665972)
