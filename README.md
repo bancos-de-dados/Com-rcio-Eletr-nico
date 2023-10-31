@@ -4,7 +4,7 @@
 ![OIP](https://github.com/bancos-de-dados/Com-rcio-Eletr-nico/assets/127689567/04d14a04-b832-4024-8f7e-40e38399a9f3)
 
 
-Você foi designado para criar um sistema de biblioteca. Aqui estão os detalhes adicionais:
+Você foi designado para criar um sistema de comercio eletronico. Aqui estão os detalhes adicionais:
 
 ### Criação da tabela Comercio Eletronico 
 
